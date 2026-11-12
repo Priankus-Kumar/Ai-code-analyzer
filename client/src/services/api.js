@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 export const api = axios.create({
-  baseURL: '/api/v1',
+baseURL: 'https://ai-code-analyzer-api-fd1p.onrender.com/api/v1',
   withCredentials: true, // Send httpOnly cookies
   headers: {
     'Content-Type': 'application/json'
