@@ -1,0 +1,17 @@
+{
+  "name": "ai-agile-code-analyzer",
+  "version": "1.0.0",
+  "description": "Enterprise AI-Powered Agile Code Analyzer with Google Gemini and MERN Stack",
+  "private": true,
+  
+  "keywords": [
+    "mern",
+    "gemini",
+    "code-review",
+    "agile",
+    "sprint-backlog",
+    "security-scanner"
+  ],
+  "author": "Antigravity Engineering",
+  "license": "ISC"
+}
